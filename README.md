@@ -1,5 +1,9 @@
 # Design Patterns
 
-## 1. Observer
+Practice design patterns
 
-angular-observer
+
+
+1. Observer
+
+   [angular-observer](https://github.com/merchuli/angular-observer)
